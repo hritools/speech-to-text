@@ -1,0 +1,2 @@
+recursive-include speechtotext/pykaldi/kaldi_gst/tdnn *
+include speechtotext/pykaldi/rec.sh
